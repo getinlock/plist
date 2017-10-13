@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml version="1.0" encoding="UTF-8"?>                                                        
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -11,7 +12,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://ebank.hubeibank.cn/perbank/mobileupload/HuBeiBank.ipa</string>
+					<string>http://192.168.211.52:9084/HBuilder.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +30,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.HUBEIBANK.iphone2</string>
+				<string>com.yusys.njpad.ios82fix</string>
 				<key>bundle-version</key>
-				<string>2.0.0</string>
+				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>HuBeiBank</string>
+				<string>智能厅堂</string>
 			</dict>
 		</dict>
 	</array>
